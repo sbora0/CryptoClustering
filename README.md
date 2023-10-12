@@ -64,10 +64,11 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
         • Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 
 Answer the following question:
+
     • What is the impact of using fewer features to cluster the data using K-Means?
 
 Files Information:
 
-   • The file “Crypto_Clustering.ipynb” is used to complete the requirement.
-   • The input file “crypto_market_data.csv” to read the data is in "Resources" folder.
+    • The file “Crypto_Clustering.ipynb” is used to complete the requirement.
+    • The input file “crypto_market_data.csv” to read the data is in "Resources" folder.
   
